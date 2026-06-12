@@ -1,0 +1,20 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,KiLib_Generator
+"C1, C13, C15, C3, C5, C6, C7, C8",8,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+"C10, C9",2,2.2uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+"C11, C12",2,22pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+"C14, C2, C4",3,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+"C16, C17",2,0.01uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D5, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D6, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D7, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D8, D80, D81, D82, D83, D84, D85, D86, D9",86,D,D_SOD-123,,,,smt,
+F1,1,550mA,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+J1,1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_GCT_USB4085,,,,tht,
+"J2, J3",2,Conn_01x10_Pin,PinHeader_1x10_P2.54mm_Vertical,,,,tht,connector/pin_header_socket
+"MX1, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX17, MX18, MX19, MX2, MX20, MX21, MX22, MX23, MX24, MX25, MX26, MX27, MX28, MX29, MX3, MX30, MX31, MX32, MX33, MX34, MX35, MX36, MX37, MX38, MX39, MX4, MX40, MX41, MX42, MX43, MX44, MX45, MX46, MX47, MX48, MX49, MX5, MX50, MX51, MX52, MX53, MX54, MX55, MX56, MX57, MX58, MX59, MX6, MX60, MX61, MX62, MX63, MX64, MX65, MX66, MX67, MX68, MX69, MX7, MX70, MX71, MX72, MX73, MX74, MX75, MX76, MX77, MX78, MX79, MX8, MX80, MX81, MX82, MX83, MX84, MX85, MX86, MX9",86,MX_SW_HS,SW_MX_HS_S_CPG151101S11_1u,,,,smt,
+"R1, R2",2,5.1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+"R3, R5, R6, R7",4,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+R4,1,100k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,SMD_2terminal_chip_molded
+S6,1,TS02-66-70-BK-260-LCR-D,TS0266100BK100LCRD,,,,tht,
+U1,1,STM32F405RGTx,LQFP-64_10x10mm_P0.5mm,,,,smt,package/gullwing
+U2,1,AP2112K-3.3,SOT95P285X140-5N,,,,smt,
+U3,1,USBLC6-2SC6,SOT-23-6,,,,smt,package/gullwing
+U4,1,PEC11L-4020F-S0020,PEC11L4120FS0020,,,,tht,
+Y1,1,12Mhz,ABLS,,,,smt,
