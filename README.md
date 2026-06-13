@@ -44,6 +44,7 @@ Once these packages are installed, you can safely open the `.kicad_pro` file.
 ## Contributions
 
 Feel free to fork this repository and submit pull requests if you have improvements for the PCB routing or case design. 
+
 My Ko-fi link if you wanna support my efforts: ![Ko-fi](kofiLogo_small.svg) [Kofi](https://ko-fi.com/mantaflow)
 
 ## Thanks
